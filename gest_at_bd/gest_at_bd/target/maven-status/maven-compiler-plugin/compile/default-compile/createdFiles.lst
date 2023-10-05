@@ -1,0 +1,16 @@
+com\ism\entities\ArticleConfection.class
+com\ism\repository\list\AbstractTable.class
+com\ism\repository\list\TableCategories.class
+com\ism\entities\Unite.class
+com\ism\repository\ITables.class
+com\ism\repository\list\TableArticleConfection.class
+com\ism\repository\bd\CategorieRepository.class
+com\ism\entities\AbstractEntity.class
+com\ism\entities\Categorie.class
+com\ism\services\CategorieServiceImpl.class
+com\ism\Main.class
+com\ism\repository\list\TableUnite.class
+com\ism\services\ArticleConfectionServiceImpl.class
+com\ism\services\IService.class
+com\ism\services\ArticleConfectionService.class
+com\ism\services\CategorieService.class
